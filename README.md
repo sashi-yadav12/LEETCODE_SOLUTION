@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/0042-trapping-rain-water) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/0042-trapping-rain-water) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1679-max-number-of-k-sum-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
