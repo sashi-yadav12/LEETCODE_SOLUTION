@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/0011-container-with-most-water) |
+| [1833-maximum-ice-cream-bars](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1833-maximum-ice-cream-bars) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1732-find-the-highest-altitude) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/sashi-yadav12/LEETCODE_SOLUTION/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
